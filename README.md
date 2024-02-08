@@ -5,6 +5,6 @@
 * `apt update`
 * `apt install git python python2 -y`
 * `git clone https://github.com/Cee-Jay-Err0r/Random_Clone`
-* `cd haxorbd`
+* `cd Random_Clone`
 
-#### > Run : `python2 haxor.py`
+#### > Run : `python DOD.py`
