@@ -1,4 +1,6 @@
-Simple random cloning tool for Facebook...
+<!doctype html>
+<h1>Simple random cloning tool for Facebook...</h1>
+<br>
 apt update
 apt upgrade
 apt install git
